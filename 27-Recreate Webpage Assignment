@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lemmy</title>
+</head>
+<body>
+	<h1>Lemmy</h1>
+	<p>Hi, I'm a cat. Meow!</p>
+	<img src="https://miro.medium.com/max/700/1*qyAOepULOa_kVehhEIySKA.jpeg">
+	<h2>Some of my favorite places:</h2>
+	<ul>
+		<li>The forest</li>
+		<li>The foot of the bed</li>
+		<li>The Window</li>
+	</ul>
+	<p>Make sure to follow me on <a href="http://www.Instagram.com">Instagram</a></p>
+
+</body>
+</html>
